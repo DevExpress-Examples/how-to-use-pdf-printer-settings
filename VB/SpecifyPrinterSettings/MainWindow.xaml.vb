@@ -30,8 +30,8 @@ Namespace SpecifyPrinterSettings
             pdfPrinterSettings.ScaleMode = PdfPrintScaleMode.CustomScale
             pdfPrinterSettings.Scale = 90
 
-        ' Print the document using the specified printer settings.                                                    
-        pdfViewer.Print(pdfPrinterSettings, True)
+            ' Print the document using the specified printer settings.            
+            pdfViewer.Print(pdfPrinterSettings, True)
         End Sub
     End Class
 End Namespace
