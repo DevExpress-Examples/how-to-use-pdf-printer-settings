@@ -29,7 +29,7 @@ namespace SpecifyPrinterSettings {
             pdfPrinterSettings.Scale = 90;
 
             // Print the document using the specified printer settings.            
-            pdfViewer.Print(pdfPrinterSettings);
+            pdfViewer.Print(pdfPrinterSettings, true);
         }
     }
 }
