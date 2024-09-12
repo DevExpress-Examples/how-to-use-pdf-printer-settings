@@ -6,7 +6,7 @@
 <!-- default badges end -->
 # PDF Viewer for WPF - How to use the PDF printer settings
 
-This example shows how to print a document with custom printer settings.
+This example shows how to print a document with custom printer settings from the PDF Viewer.
 
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
